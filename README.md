@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/b1b55f18288795.562c702fe9883.gif)
 <h1 align="center">Hi 👋, I'm Ganesh Rangaswami</h1>
-<h3 align="center">Currently, pursuing Data Science and its about to finish in next two months!</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">Currently, pursuing Data Science and it is about to finish in next two months!</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9b/67/b4/9b67b4e5299c980b2d6beaf7dc6958b4.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshrangaswami&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshrangaswami" /> </p>
