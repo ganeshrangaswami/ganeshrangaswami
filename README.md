@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/b1b55f18288795.562c702fe9883.gif)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Ganesh Rangaswami</h1>
 <h3 align="center">Currently, pursuing Data Science and it is about to finish in next two months!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9b/67/b4/9b67b4e5299c980b2d6beaf7dc6958b4.gif">
